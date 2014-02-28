@@ -1,5 +1,5 @@
 //
-//  HNViewController.h
+//  HNTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Nuttapon Songsaksri on 2/28/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface HNViewController : UIViewController
+@interface HNTableViewController : UITableViewController
 
 @end
